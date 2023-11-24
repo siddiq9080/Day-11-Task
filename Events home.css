@@ -1,0 +1,104 @@
+* {
+  margin: 0 auto;
+}
+
+.container {
+  margin: 40px;
+  border: 2px solid black;
+}
+
+header {
+  margin: 0 auto;
+  width: 40%;
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid black;
+}
+
+main {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 5px;
+}
+
+.event {
+  width: 260px;
+  height: 260px;
+  border: 2px solid black;
+  margin: 5px;
+
+}
+
+.angle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 40%;
+  height: 60%;
+  border: 1px solid black;
+  margin: 30% 5% 0 6%;
+}
+
+.content {
+  margin-top: 30%;
+
+}
+
+h1{
+    padding-bottom: 10px;
+    position: relative;
+    bottom: 60px;
+    right: 60px;
+}
+
+.circle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 60%;
+  height: 60%;
+  border: 2px solid black;
+  border-radius: 50%;
+}
+.event1 {
+  display: flex;
+  border: 2px solid black;
+}
+
+.event2 {
+  display: flex;
+  border: 2px solid black;
+}
+
+.event3 {
+  display: flex;
+  border: 2px solid black;
+}
+
+.event4 {
+  display: flex;
+  border: 2px solid black;
+}
+
+.event5 {
+  display: flex;
+  border: 2px solid black;
+}
+
+.event6 {
+  display: flex;
+  border: 2px solid black;
+}
+
+.event7 {
+  display: flex;
+  border: 2px solid black;
+}
+
+.event8 {
+  display: flex;
+  border: 2px solid black;
+}
